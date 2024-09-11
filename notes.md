@@ -7,4 +7,5 @@ git remote remove origin
 git remote -v
 git push -u origin main
 history | grep git
-
+git status
+git diff 
