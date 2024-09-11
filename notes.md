@@ -9,3 +9,6 @@ git push -u origin main
 history | grep git
 git status
 git diff 
+
+
+new things is adding to this file. 
