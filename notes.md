@@ -12,3 +12,5 @@ git diff
 
 
 new things is adding to this file. 
+
+I clone again the project into a new folder to resolve conflict.
